@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 1.5;
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.header {
+  background-color: lightcoral;
+}
+.nav {
+}
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+  flex-wrap: wrap;
+}
+.nav-link {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  transition: 0.3s;
+}
+.github-link:hover {
+  text-decoration: underline;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.section {
+  width: 50%;
+  padding-bottom: 30px;
+  border-bottom: 1px solid lightcoral;
+  padding: 10px;
+}
+.section-list {
+  list-style-type: none;
+}
+.section-profile {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+  padding: 50px;
+  border-bottom: 5px solid lightcoral;
+  margin-bottom: 20px;
+}
+.section-profile-img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.section-profile-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  text-transform: uppercase;
+}
+.section-profile-main-title {
+  margin-bottom: 30px;
+}
+.section-title {
+  margin-bottom: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: lightcoral;
+}
+.contacts-item {
+  margin-bottom: 10px;
+}
+.skills-item {
+  margin-bottom: 10px;
+}
+code {
+  margin: 0px;
+  padding: 0px;
+  font-size: 16px;
+}
+.footer {
+  background-color: lightcoral;
+  padding: 20px;
+}
+.footer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.rss {
+  width: 121px;
+  height: 45px;
+}
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.github-link {
+  padding-left: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  transition: 0.3s;
+}
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}

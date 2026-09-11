@@ -19,3 +19,32 @@ Built a React-based final project using component-based UI development, API-orie
 | APIs & Data | RESTful APIs, Postman, JSON, XML, HTTP methods/status codes |
 | Engineering | Debugging, cross-browser validation, accessibility/usability, CI/CD basics |
 | Delivery | Agile, Scrum, Kanban, SDLC/STLC, Jira |
+
+## Professional Experience
+
+### Software Testing Engineer | EPAM Systems
+
+**2018 - Nov 2022**  
+Kazakhstan | On-site | Full-time
+
+- Tested web and mobile applications across functional, regression, exploratory, and cross-browser scenarios, building a strong understanding of application behavior, edge cases, and user workflows.
+- Investigated and reproduced software defects, documented findings in Jira, verified fixes, and performed regression testing throughout release cycles.
+- Performed API and data validation using Postman, REST concepts, JSON/XML payloads, HTTP status codes, and SQL.
+- Created and maintained structured test cases and worked in Agile/Scrum environments using SDLC/STLC practices.
+- Tested EPAM Feedback web workflows and EPAM Connect mobile features, including usability and expected behavior across key user flows.
+
+## Certifications
+
+| Certification | Provider | Date |
+| --- | --- | --- |
+| React 2026 Q2 | The Rolling Scopes School | Jul 2026 |
+| Claude Code 101 | Anthropic Education | Aug 2026 |
+| Claude Platform 101 | Anthropic Education | Aug 2026 |
+| AI Fluency: Framework & Foundations | Anthropic Education | Aug 2026 |
+
+## Education
+
+### Bachelor of Technics and Technologies
+
+**2007 - 2011**  
+North Kazakhstan State University named after M. Kozybaev
